@@ -1,0 +1,13 @@
+<h1>Enter your symbol</h1>
+
+<%= form_tag '/get_quote' do %>
+	<%= label_tag 'symbol' %>
+	<%= text_field_tag 'symbol' %>
+
+	<%= label_tage 'shares' %>
+	<%= text_field_tag 'shares' %>
+
+	<%= submit_tag 'go' %>
+<% end %>
+
+
