@@ -1,0 +1,32 @@
+.span12 {
+  background-color: blue;
+  padding: 40px;
+}
+
+#yellow {
+  background-color: yellow;
+  height: 200px;
+
+}
+
+.green {
+  background-color: green;
+  height: 200px;
+}
+
+.orange {
+  background-color: orange;
+}
+
+.brown {
+  background-color: brown;
+}
+
+#red {
+  background-color: red;
+}
+
+.span4 {
+  padding: 50px;
+
+}

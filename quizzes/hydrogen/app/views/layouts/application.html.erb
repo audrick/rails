@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Hydrogen</title>
+  <%= stylesheet_link_tag    "application", :media => "all" %>
+  <%= javascript_include_tag "application" %>
+  <%= csrf_meta_tags %>
+</head>
+<body>
+<div class="container-fluid">
+    <div class="row-fluid">
+      <div class="span12"><%= yield %></div>
+    </div>
+
+    <div class="row-fluid">
+      <div class="span4" id="yellow"><%= yield :submenu %></div>
+      <div class="span8 green"></div>
+    </div>
+
+    <div class="row-fluid">
+      <div class="span4 orange"></div>
+      <div class="span4 brown"></div>
+      <div class="span4" id="red"></div>
+    </div>
+</div>
+
+</body>
+</html>
+
+
+

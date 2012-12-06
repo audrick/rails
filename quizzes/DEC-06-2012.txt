@@ -1,0 +1,35 @@
+(1) Average of numbers between 250 and 725
+
+
+(2) What is a stack frame?
+
+Answer: In computer science, a stack frame is a data structure that stores information about the routines of a computer program.
+
+(3) What is difference between a set and a list?
+
+Answer:  A set stores information in an unordered way and there are no duplicates.  A list is the exact opposite (may store information in an ordered way and contains duplicates)
+
+(4) What is Big O Notation?
+
+Answer:  Big O is used to describe the complexity of an algorithm.  Yesterday, we used Big O Notation to describe the execution time required, in memory, of an algorithm.
+
+(5) What is Big O of bubble sort?
+
+Answer:  O(n squared) as worst case, and O(n) of average case complexity.
+
+(6) How do you construct a double linked list?
+
+Answer:
+
+
+(7) Estimate the number of pizzas sold in NYC in 1 year
+
+Roughly the number of people in NYC = 8 million
+Rough percent of people who have a gluten allergy = 1%
+Average number of slices eaten per person, per year = 46 slices
+Assumption is large pies = 8 slices per pie
+Each person consumes about 5.75 pies a year
+We throw away roughly half our food, so double the number pies to 11.5 pies per year/per person
+
+920,000 pies is the estimated number of pizzas sold in NYC in 1 year.
+
