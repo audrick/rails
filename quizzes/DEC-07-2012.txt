@@ -1,0 +1,29 @@
+1) HTML stands for Hyper Text Markup Language,- this is a type of system that allows you to tag files to achieve font, colors, and graphics to your web page.
+
+2) Sass is an extension of CSS3, and utilizes much of the same discipline as CSS3, but it also adds nested rules, inheritances, etc. to add more elegance and format to the code.
+
+3) Javascript data types are: strings, numbers, booleans, arrays, objects, and null
+
+4) var something = { name:value }
+
+5) JSON stands for Javascript Objection Notation and is a lightweight programming syntax for storing and exchanging text information.
+
+6) name.ready(function)()
+
+7) Global (outside a function)
+   Local (must be inside a function)
+
+8) Ruby classes contains all object thingies plus a list of methods, and reference to any super class (if any)
+   Objects are what is inside the class
+
+9) Inheritance is the relation of two classes (Daughter < Father)
+
+10) Ruby hashes are a collection of key: value pairs; arrays are similar, but arrays are indexed arbitrarily.
+11) Hashes have more flexibility, which is the reason you would want to organize data in hashes over arrays.  Arrays are sometime easier to manipulate/extract data from
+
+12) Data structures: arrays, lists, trees, hashes, graphs
+
+13) population of chicago:  ???????
+
+
+14) manhole covers are round because they are heavy to move around (can roll them), and easier to place in and out, from any direction.

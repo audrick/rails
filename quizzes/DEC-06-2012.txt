@@ -31,5 +31,5 @@ Assumption is large pies = 8 slices per pie
 Each person consumes about 5.75 pies a year
 We throw away roughly half our food, so double the number pies to 11.5 pies per year/per person
 
-920,000 pies is the estimated number of pizzas sold in NYC in 1 year.
+91,080,000 pies is the estimated number of pizzas sold in NYC in 1 year.
 
